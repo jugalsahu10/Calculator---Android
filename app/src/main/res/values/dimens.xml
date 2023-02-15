@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnSize">0dp</dimen>
+    <dimen name="zeroSize">0dp</dimen>
+    <dimen name="btnMargin">2dp</dimen>
+    <dimen name="btnPadding">0dp</dimen>
+</resources>
